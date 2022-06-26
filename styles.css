@@ -1,0 +1,26 @@
+body {
+    margin: 20px;
+    font-family: Georgia;
+}
+
+.image {
+    width: 150px;
+    height: 150px;
+}
+
+.card {
+    width: 400px;
+    height: 150px;
+    margin: auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: lightcyan;
+    color: #2b2839;
+    border-bottom: 8px solid #d8cefe;
+}
+
+.dotted {
+    border: 1px dotted blue;
+}
